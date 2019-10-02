@@ -1,0 +1,2 @@
+This is possible because when n > 100, n^2 actually grows faster than nlogn, meaning that the function
+will end sooner. But when n < 100, nlogn runs faster than n^2.
